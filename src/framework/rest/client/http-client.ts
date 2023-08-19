@@ -7,7 +7,7 @@ import { useToken } from '@/lib/hooks/use-token';
 import { toast } from 'react-toastify';
 
 const Axios = axios.create({
-  baseURL: process.env.NEXT_PUBLIC_REST_API_ENDPOINT,
+  baseURL: "https://yoshoppa.pythonanywhere.com/api/",
   timeout: 120000,
   headers: {
     'Content-Type': 'application/json',
