@@ -19,6 +19,7 @@ const nextConfig = {
       'localhost:8000',
       '127.0.0.1:8000',
       'localhost:3000',
+      'localhost:3004',
       '127.0.0.1:3000',
       'dataguru.herokuapp.com',
       'ec2-54-221-0-110.compute-1.amazonaws.com',
