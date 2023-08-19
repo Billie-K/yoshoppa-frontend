@@ -23,6 +23,7 @@ const nextConfig = {
       'dataguru.herokuapp.com',
       'ec2-54-221-0-110.compute-1.amazonaws.com',
       '54.221.0.110',
+      'yoshoppa.pythonanywhere.com'
     ],
   },
   ...(process.env.FRAMEWORK_PROVIDER === 'graphql' && {
