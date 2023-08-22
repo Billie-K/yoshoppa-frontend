@@ -4,7 +4,7 @@ export const siteSettings = {
   description: '',
   logo: {
     url: '/logo.svg',
-    alt: 'Dataguru',
+    alt: 'YoShoppa - A DataGuru Zim Project',
     href: '/grocery',
     width: 128,
     height: 40,
@@ -79,7 +79,7 @@ export const siteSettings = {
   },
   footer: {
     copyright: {
-      name: 'DataGuru Inc',
+      name: 'YoShoppa - A DataGuru Zim Project',
       href: 'http://3.228.84.204/',
     },
     address: '2429 River Drive, Mt Pleasant, Zimbabwe',
