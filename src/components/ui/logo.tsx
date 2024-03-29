@@ -16,7 +16,7 @@ const Logo: React.FC<React.AnchorHTMLAttributes<{}>> = ({
       <span className="relative h-14 w-32 overflow-hidden md:w-40">
         <Image
           src={logo?.original ?? logoPlaceholder}
-          alt={siteTitle || 'DataGuru Logo'}
+          alt={siteTitle || 'Mama Africa'}
           layout="fill"
           objectFit="contain"
           loading="eager"

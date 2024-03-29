@@ -1,10 +1,10 @@
 import { ROUTES } from '@/lib/routes';
 export const siteSettings = {
-  name: 'GuruShop',
+  name: 'Mama Africa',
   description: '',
   logo: {
     url: '/logo.svg',
-    alt: 'YoShoppa - A DataGuru Zim Project',
+    alt: 'Mama Africa - Online Marketplace',
     href: '/grocery',
     width: 128,
     height: 40,
@@ -79,7 +79,7 @@ export const siteSettings = {
   },
   footer: {
     copyright: {
-      name: 'YoShoppa - A DataGuru Zim Project',
+      name: 'Mama Africa - Online Marketplace',
       href: 'http://3.228.84.204/',
     },
     address: '2429 River Drive, Mt Pleasant, Zimbabwe',

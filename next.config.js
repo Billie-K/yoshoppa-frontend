@@ -21,7 +21,6 @@ const nextConfig = {
       'localhost:3000',
       'localhost:3004',
       '127.0.0.1:3000',
-      'dataguru.herokuapp.com',
       'ec2-54-221-0-110.compute-1.amazonaws.com',
       '54.221.0.110',
       'yoshoppa.pythonanywhere.com'

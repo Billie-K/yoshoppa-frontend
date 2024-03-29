@@ -48,7 +48,7 @@ Axios.interceptors.response.use(
       (error.response && error.response.status === 401) ||
       (error.response && error.response.status === 403) ||
       (error.response &&
-        error.response.data.message === 'DATAGURU.NOT_AUTHORIZED')
+        error.response.data.message === 'MAMA_AFRICA.NOT_AUTHORIZED')
     ) {
       // const refreshToken = Cookies.get(REFRESH_TOKEN_KEY);
       // return Axios.post('/token/refresh/', {
