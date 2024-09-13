@@ -1,6 +1,6 @@
 import { ROUTES } from '@/lib/routes';
 export const siteSettings = {
-  name: 'YoShoppa,
+  name: 'YoShoppa',
   description: '',
   logo: {
     url: '/logo.svg',
